@@ -1,0 +1,1 @@
+# log-command-history-to-cwlogs
